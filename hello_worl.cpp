@@ -5,7 +5,7 @@ int main()
     //lublu jit
     string name;
     cin>>name;
-    std::cout << "Hello from "<<name;
+    cout << "Hello from "<<name;
 
     return 0;
 }
